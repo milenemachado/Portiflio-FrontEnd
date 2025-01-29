@@ -36,7 +36,7 @@ git clone https://github.com/milenemachado/portfolio
 ```
 cd portfolio
 ```
-3. Abra o arquivo index.html em seu navegador.
+3. Abra o arquivo `index.html` em seu navegador.
 
 ### Estrutura do Projeto
 
@@ -50,7 +50,7 @@ cd portfolio
 
 ## Autor(a):
 
-- **Milene Machado** - https://github.com/milenemachado
+- **Milene Machado** - [github](https://github.com/milenemachado)
 
 ## LICENSE
 
