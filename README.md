@@ -26,7 +26,7 @@ Desenvolvido para fins educativos, proposto pelo professor João Ferreira no cur
 
 - **FontAwesome:** Ícones para botões e links.
 
- #### Como Usar
+ ### Como Usar
 
 1. Clone este repositório:
 ```
@@ -38,7 +38,7 @@ cd portfolio
 ```
 3. Abra o arquivo index.html em seu navegador.
 
-##### Estrutura do Projeto
+### Estrutura do Projeto
 
 - **index.html:** Arquivo principal com a estrutura da página.
 
@@ -48,10 +48,11 @@ cd portfolio
 
 - **bootstrap arquivos/:** Biblioteca Bootstrap e FontAwesome locais (alternativo ao CDN).
 
-### Autor
+## Autor(a):
 
-- Milene Machado
-GitHub
+- **Milene Machado** - https://github.com/milenemachado
 
-### Licen
-https://github.com/milenemachado/Portiflio-FrontEnd/blob/main/LICENSE
+## LICENSE
+
+Creative Commons Zero v1.0 Universal
+- Creative Commons Legal Code [aqui](https://github.com/milenemachado/Portiflio-FrontEnd/blob/main/LICENSE)
