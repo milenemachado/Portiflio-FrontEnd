@@ -4,27 +4,27 @@ Desenvolvido para fins educativos, proposto pelo professor João Ferreira no cur
 
 ## Funcionalidades 
 
-- Carrossel Interativo: Apresenta imagens relacionadas às principais habilidades (Java, HTML, SQL).
+- **Carrossel Interativo:** Apresenta imagens relacionadas às principais habilidades (Java, HTML, SQL).
 
-- Seção de Links: Inclui botões para GitHub, LinkedIn, e e-mail.
+- **Seção de Links:** Inclui botões para GitHub, LinkedIn, e e-mail.
 
-- Seção "Sobre Mim": Texto e imagem que descrevem a usuária e sua trajetória profissional.
+- **Seção "Sobre Mim":** Texto e imagem que descrevem a usuária e sua trajetória profissional.
 
-- Formulário de Contato: Permite visitantes enviarem mensagens diretamente pelo site.
+- **Formulário de Contato:** Permite visitantes enviarem mensagens diretamente pelo site.
 
-- Design Responsivo: Layout adaptável para diferentes tamanhos de tela (desktop, tablet e mobile).
+- **Design Responsivo:** Layout adaptável para diferentes tamanhos de tela (desktop, tablet e mobile).
 
 ### Tecnologias Utilizadas
 
-- HTML5: Estrutura e organização do conteúdo.
+- **HTML5:** Estrutura e organização do conteúdo.
 
-- CSS3: Estilização responsiva, animações e ajustes visuais.
+- **CSS3:** Estilização responsiva, animações e ajustes visuais.
 
-- Bootstrap 5: Componentes prontos e responsividade aprimorada.
+- **Bootstrap 5:** Componentes prontos e responsividade aprimorada.
 
-- Animate.css: Efeitos de animações nas seções.
+- **Animate.css:** Efeitos de animações nas seções.
 
-- FontAwesome: Ícones para botões e links.
+- **FontAwesome:** Ícones para botões e links.
 
  #### Como Usar
 
@@ -40,15 +40,18 @@ cd portfolio
 
 ##### Estrutura do Projeto
 
-- index.html: Arquivo principal com a estrutura da página.
+- **index.html:** Arquivo principal com a estrutura da página.
 
-- css/style.css: Estilos personalizados.
+- **css/style.css:** Estilos personalizados.
 
-- pictures/: Pasta com imagens utilizadas no projeto.
+- **pictures/:** Pasta com imagens utilizadas no projeto.
 
-- bootstrap arquivos/: Biblioteca Bootstrap e FontAwesome locais (alternativo ao CDN).
+- **bootstrap arquivos/:** Biblioteca Bootstrap e FontAwesome locais (alternativo ao CDN).
 
 ### Autor
 
 - Milene Machado
 GitHub
+
+### Licen
+https://github.com/milenemachado/Portiflio-FrontEnd/blob/main/LICENSE
