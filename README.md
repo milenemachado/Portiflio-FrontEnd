@@ -40,7 +40,7 @@ cd portfolio
 
 ### Estrutura do Projeto
 
-- **index.html:** Arquivo principal com a estrutura da página.
+- **portifolio.html:** Arquivo principal com a estrutura da página.
 
 - **css/style.css:** Estilos personalizados.
 
